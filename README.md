@@ -1,44 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**AKSHAYA M** 
+**Company**: CODETECH IT SOLUTIONS  
+**Id**: CT08DS81
+**Domain**: PYTHON PROGRAMMING  
+**Duration**: NOV-30 TO DEC-30,2024.
 
 ---
 
